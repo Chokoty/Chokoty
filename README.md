@@ -30,6 +30,15 @@
 <a href="https://unity.com" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Chokoty"
+    width="600"
+    height="300"
+  />
+</a>
+  
+
 <!--
 cobalt
 vue
