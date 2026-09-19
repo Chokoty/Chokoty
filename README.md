@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/Chokoty">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChokoty&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" alt="GitHub hits" />
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FChokoty&label=hits&icon=github&color=%23000000" alt="GitHub hits" />
 </a>
 
 [![Chokoty's GitHub stats](https://github-stats-extended.vercel.app/api?username=Chokoty&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
